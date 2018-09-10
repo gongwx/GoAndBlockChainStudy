@@ -1,0 +1,2 @@
+# Linux
+关于linux的学习以及常用命令都在wumansgy.github.io博客上面可以查看到，也在持续不断更新当中，正在同步
