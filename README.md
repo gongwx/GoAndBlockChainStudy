@@ -82,8 +82,6 @@ go语言和区块链的一些学习总结笔记，包括go语言编程，区块�
 
   ## golang例题讲解
 
-  > 以考代练，预祝各位考生取得优异成绩！fighting
-
   - [1.卷一](https://github.com/wumansgy/GoAndBlockChainStudy/blob/master/go%E7%BB%8F%E5%85%B8%E9%A2%98%E7%A7%AF%E7%B4%AF/%E5%8D%B71.md)
 
   - [2.卷二](https://github.com/wumansgy/GoAndBlockChainStudy/blob/master/go%E7%BB%8F%E5%85%B8%E9%A2%98%E7%A7%AF%E7%B4%AF/%E5%8D%B72.md)
